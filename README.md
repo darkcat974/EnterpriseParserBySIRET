@@ -1,8 +1,6 @@
-# AllianzTrade
-
 ## Introduction
 
-AllianzTrade is a Python-based application designed for processing and validating **SIRET** numbers. It connects to a database, retrieves client information, categorizes SIRET numbers into valid, invalid, and duplicate entries, and generates CSV files for each category. The application provides a user-friendly GUI for visualizing the processing progress.
+A Python-based application designed for processing and validating **SIRET** numbers. It connects to a database, retrieves client information, categorizes SIRET numbers into valid, invalid, and duplicate entries, and generates CSV files for each category. The application provides a user-friendly GUI for visualizing the processing progress.
 
 > **⚠️ WARNING:**
 > We are not using a verification process through an external site. The database is substantial, and verifying through the site would either take too long (multiple days/weeks) or spam the connected API.
