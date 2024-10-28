@@ -1,0 +1,14 @@
+beautifulsoup4
+python-dotenv
+prettytable
+sqlalchemy
+pywebview
+requests
+asyncio
+aiohttp
+dotenv
+pyodbc
+pandas
+tqdm
+nltk
+csv
